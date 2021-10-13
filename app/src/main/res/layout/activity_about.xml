@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#B1D3F8"
+    android:background="#FF0099FF"
     tools:context=".About">
 
     <TextView
@@ -33,7 +33,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="30dp"
-        android:text="About"
+        android:text="About Unicef"
         android:textSize="24sp"
         app:autoSizeTextType="none"
         app:layout_constraintBottom_toTopOf="@+id/UnicefLogo"
